@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\OOP-term2-lab2\\lab2_1ex\\lab2_1exe\\lab2_1exe.csproj": {}
+    "d:\\Git\\OOP-Lab_2\\lab2_1ex\\lab2_1exe\\lab2_1exe.csproj": {}
   },
   "projects": {
-    "D:\\Git\\OOP-term2-lab2\\lab2_1ex\\lab2_1exe\\lab2_1exe.csproj": {
+    "d:\\Git\\OOP-Lab_2\\lab2_1ex\\lab2_1exe\\lab2_1exe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\OOP-term2-lab2\\lab2_1ex\\lab2_1exe\\lab2_1exe.csproj",
+        "projectUniqueName": "d:\\Git\\OOP-Lab_2\\lab2_1ex\\lab2_1exe\\lab2_1exe.csproj",
         "projectName": "lab2_1exe",
-        "projectPath": "D:\\Git\\OOP-term2-lab2\\lab2_1ex\\lab2_1exe\\lab2_1exe.csproj",
+        "projectPath": "d:\\Git\\OOP-Lab_2\\lab2_1ex\\lab2_1exe\\lab2_1exe.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\OOP-term2-lab2\\lab2_1ex\\lab2_1exe\\obj\\",
+        "outputPath": "d:\\Git\\OOP-Lab_2\\lab2_1ex\\lab2_1exe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -20,13 +20,13 @@
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp2.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "netcoreapp2.1": {
             "projectReferences": {}
           }
         },
@@ -37,7 +37,14 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461"
           ],

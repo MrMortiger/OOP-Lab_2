@@ -1,0 +1,11 @@
+d:\Git\OOP-Lab_2\lab2_3\lab2_3\bin\Debug\netcoreapp2.1\lab2_3.deps.json
+d:\Git\OOP-Lab_2\lab2_3\lab2_3\bin\Debug\netcoreapp2.1\lab2_3.runtimeconfig.json
+d:\Git\OOP-Lab_2\lab2_3\lab2_3\bin\Debug\netcoreapp2.1\lab2_3.runtimeconfig.dev.json
+d:\Git\OOP-Lab_2\lab2_3\lab2_3\bin\Debug\netcoreapp2.1\lab2_3.dll
+d:\Git\OOP-Lab_2\lab2_3\lab2_3\bin\Debug\netcoreapp2.1\lab2_3.pdb
+d:\Git\OOP-Lab_2\lab2_3\lab2_3\obj\Debug\netcoreapp2.1\lab2_3.csprojAssemblyReference.cache
+d:\Git\OOP-Lab_2\lab2_3\lab2_3\obj\Debug\netcoreapp2.1\lab2_3.csproj.CoreCompileInputs.cache
+d:\Git\OOP-Lab_2\lab2_3\lab2_3\obj\Debug\netcoreapp2.1\lab2_3.AssemblyInfoInputs.cache
+d:\Git\OOP-Lab_2\lab2_3\lab2_3\obj\Debug\netcoreapp2.1\lab2_3.AssemblyInfo.cs
+d:\Git\OOP-Lab_2\lab2_3\lab2_3\obj\Debug\netcoreapp2.1\lab2_3.dll
+d:\Git\OOP-Lab_2\lab2_3\lab2_3\obj\Debug\netcoreapp2.1\lab2_3.pdb
